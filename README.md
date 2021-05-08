@@ -1,1 +1,1 @@
-# College - ECE3047: MLF
+# College - ECE3047: Machine Learning
